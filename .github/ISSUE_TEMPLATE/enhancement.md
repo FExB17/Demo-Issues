@@ -1,10 +1,10 @@
 ---
 name: Enhancement
-description: Improvement or UX issue
+about: Improvement or UX issue
 labels: ["enhancement"]
 ---
 
-## Problem
+Problem
 **What is confusing, limiting, or missing?**
 
 ---
