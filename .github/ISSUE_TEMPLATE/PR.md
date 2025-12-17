@@ -27,4 +27,8 @@ How was this checked?
 
 ## Notes
 related issues:
-screenshots/logs:
+
+---
+
+## Screenhots/Logs
+
