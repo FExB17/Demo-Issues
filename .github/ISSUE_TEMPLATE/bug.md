@@ -26,4 +26,8 @@ What happens instead?
 
 ## Notes
 related:
-screenshots/logs:
+
+---
+
+## Screenshots/Logs
+
