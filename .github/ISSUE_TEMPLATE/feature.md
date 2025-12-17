@@ -33,4 +33,8 @@ Describe the outcome, not the solution.
 
 ## Notes
 related: <keywords>
-references:
+
+---
+
+## Screenshots/Logs
+
