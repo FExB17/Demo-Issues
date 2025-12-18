@@ -36,7 +36,7 @@ body:
     attributes:
       label: Notes
       description: Related links, issues, or extra context.
-      placeholder: related: #123, Figma link, log snippet
+      placeholder: related:
   - type: textarea
     id: screenshots
     attributes:
