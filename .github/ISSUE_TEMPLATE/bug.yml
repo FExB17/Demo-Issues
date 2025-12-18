@@ -1,6 +1,5 @@
 name: Bug
 description: Something is broken
-type: bug
 body:
   - type: textarea
     id: problem
